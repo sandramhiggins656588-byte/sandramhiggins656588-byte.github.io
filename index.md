@@ -11,6 +11,7 @@ description: "文章、教程与经验分享。"
 ## 文章列表
 
 <!-- pages-publisher:articles:start -->
+- [Google Indexing Tools Buying Guide 2026]({{ '/google-indexing-tools-buying-guide-2026-22/' | relative_url }})
 - [Best Google Indexing Tools in 2026: 10 Indexers Compared]({{ '/best-google-indexing-tools-2026-10-indexers-compared-18/' | relative_url }})
 - [Best Google Indexing Tools in 2026: 10 Indexers Compared]({{ '/article-4a8dee359e017a84/' | relative_url }})
 - [Google Indexing Tools Buying Guide 2026]({{ '/google-indexing-tools-buying-guide-2026-21/' | relative_url }})
