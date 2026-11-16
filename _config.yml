@@ -1,0 +1,9 @@
+title: "FastIndex — Google Indexing Tool"
+description: "文章、教程与经验分享。"
+url: "https://sandramhiggins656588-byte.github.io"
+baseurl: ""
+publisher_setup: a1b197c1c16f6c6dc74aeaac3c5ad1f37322ed75beab2616effbd170293b6aeb
+lang: zh-CN
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
