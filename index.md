@@ -11,6 +11,7 @@ description: "文章、教程与经验分享。"
 ## 文章列表
 
 <!-- pages-publisher:articles:start -->
+- [10 Best Instant Indexing Tools for Google in 2026]({{ '/best-instant-indexing-tools-google-2026-3-10ab5bd54526/' | relative_url }})
 - [Best Google Indexing Tools in 2026: 10 Indexers Compared]({{ '/best-google-indexing-tools-2026-3-116c7f2b874f/' | relative_url }})
 - [Best Google Indexing Tools in 2026: 10 Indexers Compared]({{ '/best-google-indexing-tools-2026-10-indexers-compared-3-4ed065398e0f/' | relative_url }})
 - [Best Google Indexing Tools in 2026: 10 Indexers Compared]({{ '/best-google-indexing-tools-2026-3-9f0fe3aac396/' | relative_url }})
